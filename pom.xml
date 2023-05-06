@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>cn.ares</groupId>
+  <groupId>io.github.Aresxue</groupId>
   <artifactId>ares-parent</artifactId>
   <version>kele</version>
   <packaging>pom</packaging>
@@ -15,7 +15,7 @@
     <license>
       <name>Apache License, Version 2.0</name>
       <url>https://www.apache.org/licenses/LICENSE-2.0</url>
-      <comments>Copyright 2014-2015 the original author or authors.
+      <comments>Copyright 2022-2032 the original author or authors.
 
         Licensed under the Apache License, Version 2.0 (the "License");
         you may not use this file except in compliance with the License.
